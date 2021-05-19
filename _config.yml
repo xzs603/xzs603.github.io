@@ -1,7 +1,7 @@
 # Site settings
 title: Sam Ready
 SEOTitle: Sam Ready - Journal
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-hacker.jpg
 email: xzs603@gmail.com
 description: "Sam Ready's Journal"
 keyword: "Sam, Ready, Journal"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/xzs603/xzs603.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/compass.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
